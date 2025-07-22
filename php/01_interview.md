@@ -130,12 +130,9 @@
 4. What are union types and named arguments (PHP 8)?
 
 ---
-Absolutely! Here's a solid list of **PHP interview questions and answers**, curated for someone with **3 years of experience**, like you, targeting **CedCoss Technologies** or similar companies.
-
----
 
 ----
-# ✅ **PHP Interview Questions & Answers (For 3 Years Experienced Developer)**
+## ✅ **PHP Interview Questions & Answers (For 3 Years Experienced Developer)**
 
 ---
 
