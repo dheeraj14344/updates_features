@@ -4,9 +4,8 @@
 
 1. What are the differences between == and === in PHP? Can you provide a real example where this matters?
 
-```php
 The `==` operator checks only for equality of value, while `===` checks for both value and data type.
-
+```php
 Example:
 $a = 0;
 $b = false;
